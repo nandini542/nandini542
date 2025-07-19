@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nandini542
 -👀 I’m interested in back-end development, studying, and exploring new places.
--🌱 I’m currently learning cloud-based gaming platforms and advanced statistical measures for feature selection in linear regression models.
+-🌱 I’m currently learning cloud-based platforms and advanced statistical measures for feature selection in linear regression models.
 -💞️ I’m looking to collaborate on back-end tech projects, especially those related to statistical analysis.
 -📫 How to reach me: [nandinimukkandla@gmail.com]
 -😄 Pronouns: she/Her
